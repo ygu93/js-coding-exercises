@@ -3,7 +3,7 @@ You might know about [map](https://developer.mozilla.org/en/docs/Web/JavaScript/
 `map` should function like `map` does:
 
 ```js
-var map = require('./') // <- this is the file you make;
+var map = require('./map.js') // <- this is the file you make;
 
 var numbers = [1, 2, 3];
 
